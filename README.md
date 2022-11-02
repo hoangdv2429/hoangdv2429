@@ -12,8 +12,7 @@
 
 ### Framework
 * React, Harthat, Truffle, Cosmos SDK
-* 🗣 Keras 
-* 🖇️ OpenCV 
+* Rust, GoLang
 * 🛢️ MySQL/ Postgresql
 * :octocat: Git | Github
 
