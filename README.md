@@ -1,7 +1,6 @@
-# hoangdv2429
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Hoang 👨‍💻
 - 🌱 I'm studying at Ha Noi University Of Science And Technology.
-- 💡 I love innovation and new technologies. 
+- 💡 I love innovation and new technologies. Currently focusing on Cosmos SDK, Telescope (AST)
 - 🥇 Languages: Vietnamese (Native), English, Japanese
 
 ### Languages
