@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Hoang 👨‍💻
-- 🌱 I'm studying at Ha Noi University Of Science And Technology.
-- 💡 I love innovation and new technologies. Currently focusing on Cosmos SDK, Telescope (AST)
-- 🥇 Languages: Vietnamese (Native), English, Japanese
+- 🌱 I graduated from Ha Noi University Of Science And Technology.
+- 💡 I love innovation and new technologies. Currently focusing on Cosmos SDK, IBC, Telescope (AST)
+- 🥇 Languages: Vietnamese, English, Japanese
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
@@ -11,7 +11,7 @@
 [![Go](https://img.shields.io/badge/-Go-fff?&logo=Go)](https://github.com/adamalston?tab=repositories&q=&type=&language=Go)
 
 ### Framework
-* React, Harthat, Truffle, Cosmos SDK
+* Harthat, Truffle, Cosmos SDK
 * Nestjs
 * 🛢️ MySQL/ Postgresql/ Mongodb
 * :octocat: Git | Github
